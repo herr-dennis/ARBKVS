@@ -1,2 +1,7 @@
 ﻿  ARBK_5_.cpp
-  ARBK_5_.vcxproj -> C:\Users\herrd\OneDrive\Repository_Dennis\ARBKVS_5\ARBK_5_\x64\Debug\ARBK_5_.exe
+C:\Users\herrd\OneDrive\Repository_Dennis\ARBKVS_5\ARBK_5_\ARBKVS\ARBK_5_\SemaphoreSyncro.h(10,24): error C2512: "semaphore::Semaphore": Kein geeigneter Standardkonstruktor verfügbar
+C:\Users\herrd\OneDrive\Repository_Dennis\ARBKVS_5\ARBK_5_\ARBKVS\ARBK_5_\Semaphore.h(7,11): message : Siehe Deklaration von "semaphore::Semaphore"
+  SemaphoreSyncro.cpp
+C:\Users\herrd\OneDrive\Repository_Dennis\ARBKVS_5\ARBK_5_\ARBKVS\ARBK_5_\SemaphoreSyncro.h(10,24): error C2512: "semaphore::Semaphore": Kein geeigneter Standardkonstruktor verfügbar
+C:\Users\herrd\OneDrive\Repository_Dennis\ARBKVS_5\ARBK_5_\ARBKVS\ARBK_5_\Semaphore.h(7,11): message : Siehe Deklaration von "semaphore::Semaphore"
+  Code wird generiert...
